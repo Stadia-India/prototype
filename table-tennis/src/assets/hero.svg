@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 460">
+<defs><linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#6C4DFF"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#241a7a"/><stop offset="1" stop-color="#0F1226"/></linearGradient>
+<radialGradient id="b" cx=".3" cy=".3"><stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#C6F432"/><stop offset="1" stop-color="#8fb812"/></radialGradient></defs>
+<rect width="560" height="460" rx="36" fill="url(#bg)"/>
+<circle cx="440" cy="90" r="120" fill="#6C4DFF" opacity=".25"/><circle cx="90" cy="380" r="90" fill="#C6F432" opacity=".08"/>
+<polygon points="90,300 470,300 520,390 40,390" fill="#0b0e22" opacity=".6"/>
+<polygon points="120,230 440,230 500,350 60,350" fill="url(#t)"/>
+<polygon points="120,230 440,230 450,244 110,244" fill="#fff" opacity=".18"/>
+<line x1="280" y1="232" x2="280" y2="348" stroke="#fff" stroke-width="3" opacity=".7"/>
+<line x1="90" y1="290" x2="470" y2="290" stroke="#fff" stroke-width="3" opacity=".7"/>
+<polygon points="100,200 460,200 440,232 120,232" fill="#fff" opacity=".12"/>
+<rect x="96" y="196" width="368" height="5" rx="2.5" fill="#fff"/>
+<rect x="94" y="196" width="6" height="64" rx="3" fill="#dcd6ff"/><rect x="460" y="196" width="6" height="64" rx="3" fill="#dcd6ff"/>
+<g transform="rotate(-24 150 150)"><rect x="140" y="170" width="20" height="78" rx="9" fill="#C6F432"/><ellipse cx="150" cy="120" rx="64" ry="70" fill="#FF5C7A"/><ellipse cx="150" cy="120" rx="52" ry="58" fill="#ff7d94"/></g>
+<path d="M220 120 Q300 70 380 110" stroke="#C6F432" stroke-width="3" stroke-dasharray="3 9" fill="none" stroke-linecap="round"/>
+<circle cx="392" cy="116" r="22" fill="url(#b)"/><ellipse cx="392" cy="330" rx="26" ry="6" fill="#000" opacity=".25"/>
+</svg>
